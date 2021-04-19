@@ -7,7 +7,6 @@ namespace BlanceNumberbracket
         public static bool Part(String s)
         {
             int count = 0;
-            int missing = 0;
             char[] arr = s.ToCharArray();
             int temp = 0;
             Array.Sort(arr);
