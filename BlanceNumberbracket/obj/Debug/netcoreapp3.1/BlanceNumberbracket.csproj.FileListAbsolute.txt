@@ -1,0 +1,13 @@
+C:\Users\F-LOW\source\repos\BlanceNumberbracket\BlanceNumberbracket\bin\Debug\netcoreapp3.1\BlanceNumberbracket.exe
+C:\Users\F-LOW\source\repos\BlanceNumberbracket\BlanceNumberbracket\bin\Debug\netcoreapp3.1\BlanceNumberbracket.deps.json
+C:\Users\F-LOW\source\repos\BlanceNumberbracket\BlanceNumberbracket\bin\Debug\netcoreapp3.1\BlanceNumberbracket.runtimeconfig.json
+C:\Users\F-LOW\source\repos\BlanceNumberbracket\BlanceNumberbracket\bin\Debug\netcoreapp3.1\BlanceNumberbracket.runtimeconfig.dev.json
+C:\Users\F-LOW\source\repos\BlanceNumberbracket\BlanceNumberbracket\bin\Debug\netcoreapp3.1\BlanceNumberbracket.dll
+C:\Users\F-LOW\source\repos\BlanceNumberbracket\BlanceNumberbracket\bin\Debug\netcoreapp3.1\BlanceNumberbracket.pdb
+C:\Users\F-LOW\source\repos\BlanceNumberbracket\BlanceNumberbracket\obj\Debug\netcoreapp3.1\BlanceNumberbracket.AssemblyInfoInputs.cache
+C:\Users\F-LOW\source\repos\BlanceNumberbracket\BlanceNumberbracket\obj\Debug\netcoreapp3.1\BlanceNumberbracket.AssemblyInfo.cs
+C:\Users\F-LOW\source\repos\BlanceNumberbracket\BlanceNumberbracket\obj\Debug\netcoreapp3.1\BlanceNumberbracket.csproj.CoreCompileInputs.cache
+C:\Users\F-LOW\source\repos\BlanceNumberbracket\BlanceNumberbracket\obj\Debug\netcoreapp3.1\BlanceNumberbracket.dll
+C:\Users\F-LOW\source\repos\BlanceNumberbracket\BlanceNumberbracket\obj\Debug\netcoreapp3.1\BlanceNumberbracket.pdb
+C:\Users\F-LOW\source\repos\BlanceNumberbracket\BlanceNumberbracket\obj\Debug\netcoreapp3.1\BlanceNumberbracket.genruntimeconfig.cache
+C:\Users\F-LOW\source\repos\BlanceNumberbracket\BlanceNumberbracket\obj\Debug\netcoreapp3.1\BlanceNumberbracket.csprojAssemblyReference.cache
